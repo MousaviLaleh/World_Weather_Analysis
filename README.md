@@ -38,7 +38,7 @@ take the steps:
 - use input statements to retrieve customer weather preferences.<br/>
   ![inBox.png](/Vacation_Search/inBox.png)
   
-- use those preferences to identify potential travel destinations and nearby hotels. <br/>
+- use those preferences to identify potential travel destinations and nearby hotels.  <br/>
   ![hotels.png](/Vacation_Search/hotels.png)
 
 
@@ -50,8 +50,10 @@ take the steps:
 
 ## Create a Travel Itinerary Map
 Using Google Maps Directions API, the app generates a travel route between 4 cities selected by the user from the search map. <br/>
-![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png) <br/>
-with pop-up marker showing the description for each selected city. <br/>
+![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png) 
+<br/>
+with pop-up marker showing the description for each selected city. 
+<br/>
 ![WeatherPy_travel_map_markers.png](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 <br/>
