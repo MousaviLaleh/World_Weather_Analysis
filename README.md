@@ -47,6 +47,7 @@ take the steps:
 
 ![WeatherPy_vacation_map.png](/Vacation_Search/WeatherPy_vacation_map.png)
 <br/>
+<br/>
 
 
 
