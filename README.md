@@ -1,7 +1,8 @@
 # World_Weather_Analysis
 
 ## Project Overview
-Work with PlanMyTrip travel technology company, to improve thier travel PlanMyTrip app services, by adding features in the search page; using *Python, Pandas, Jupyter notebook, citipy and matplotlib module, openweather map and google APIs*. Based on the new features , users can filter their preferred travel criteria in order to find their ideal hotel anywhere, and predict the best time of year to plan their vacation.
+Work with PlanMyTrip travel technology company, to improve thier travel PlanMyTrip app services, by adding features in the search page; using *Python, Pandas, Jupyter notebook, citipy and matplotlib module, openweather map and google APIs*. 
+Based on the new features , users can filter their preferred travel criteria in order to find their ideal hotel anywhere, and predict the best time of year to plan their vacation.
 
 
 ## Purpose
