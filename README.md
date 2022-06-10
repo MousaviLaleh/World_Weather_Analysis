@@ -46,22 +46,10 @@ take the steps:
 
 ## Create a Travel Itinerary Map
 Using Google Maps Directions API, the app generates a travel route between 4 cities selected by the user from the search map. <br/>
-![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png)
+![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png) <br/>
+with pop-up marker showing the description for each selected city. <br/>
+![WeatherPy_travel_map_markers.png](/Vacation_Search/WeatherPy_travel_map_markers.png)
 
-
-
-## Results
-
-
-## notes
- - Add weather description for each city to the weather data.
-  - Add input option to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels.
-  - Create a Travel Itinerary Map, by using the Google Maps Directions API, to create a travel route between the four cities.
-  -   
-  - Get the cities for more than 500 random latitude and longitude.
-  - Perform requests with APIs.
-  - Retrieve the json weather data from these cities.
-  - help customers to predict the best time of year to plan thier vacation.
-
-
+<br/>
+<br/>
 
