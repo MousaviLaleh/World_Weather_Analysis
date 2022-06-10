@@ -38,6 +38,9 @@ take the steps:
 - use input statements to retrieve customer weather preferences.<br/>
   ![inBox.png](/Vacation_Search/inBox.png)
 - use those preferences to identify potential travel destinations and nearby hotels.
+  ![hotels.png](/Vacation_Search/hotels.png)
+
+
 - show those destinations on a map with pop-up markers.
 
 ![WeatherPy_vacation_map.png](/Vacation_Search/WeatherPy_vacation_map.png)
