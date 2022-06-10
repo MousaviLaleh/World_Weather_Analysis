@@ -37,6 +37,7 @@ take the steps:
 ![01.png](/files/01.png)
 <br/>
 
+
 ### Create a customer travel destinations map
 take the steps:
 - use input statements to retrieve customer weather preferences.<br/>
