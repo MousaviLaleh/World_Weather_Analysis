@@ -48,7 +48,7 @@ take the steps:
 Using Google Maps Directions API, the app generates a travel route between 4 cities selected by the user from the search map. <br/>
 ![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png) <br/>
 with pop-up marker showing the description for each selected city. <br/>
-![WeatherPy_travel_map_markers.png](/Vacation_Search/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers.png](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 <br/>
 <br/>
