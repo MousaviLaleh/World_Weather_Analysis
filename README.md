@@ -41,7 +41,7 @@ take the steps:
 - use those preferences to identify potential travel destinations and nearby hotels.  <br/> <br/>
   ![hotels.png](/Vacation_Search/hotels.png)
 
-
+<br/>
 - show those destinations on a map with pop-up markers.
 
 ![WeatherPy_vacation_map.png](/Vacation_Search/WeatherPy_vacation_map.png)
