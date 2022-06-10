@@ -33,7 +33,7 @@ take the steps:
 <br/>
 <br/>
 
-### Create a customer travel destinations map
+### Create a Customer Travel Destinations Map
 take the steps:
 - use input statements to retrieve customer weather preferences.<br/>
   ![inBox.png](/Vacation_Search/inBox.png)
@@ -44,6 +44,9 @@ take the steps:
 <br/>
 <br/>
 
+## Create a Travel Itinerary Map
+Using Google Maps Directions API, the app generates a travel route between 4 cities selected by the user from the search map. <br/>
+![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
 
