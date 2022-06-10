@@ -25,8 +25,16 @@ Take following steps in this project:
   :card_file_box: &#160; [Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/) <br/>
   :card_file_box: &#160; [citipy module](/fies/615.pdf) <br/>
   :card_file_box: &#160; [matplotlib.pyplot module](https://pandas.pydata.org/docs/user_guide/visualization.html?highlight=matplotlib#plotting-directly-with-matplotlib)
+<br/>
 
 ## Analysis
+### Retrieve Weather Data
+- The app uses the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
+- The Python's [citipy](/fies/615.pdf) module is then called to identify the nearest city for each coordinate combination.
+- The weather data is retrieved for all identified cities through a request to the [OpenWeather API](https://openweathermap.org/current).
+
+![01.png](/files/01.png)
+
 
 
 ## Results
