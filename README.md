@@ -11,10 +11,18 @@ Work with PlanMyTrip travel technology company, to improve thier travel service,
 ## Purpose
 Take following steps in this project:
 
+  - Retrieve Weather Data.
   - Add weather description to the weather data.
   - Add input option to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels.
-  - From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary.
-  - Using the Google Maps Directions API, to create a travel route between the four cities.
+  - Create a Customer Travel Destinations Map.
+  - Create a Travel Itinerary Map, by using the Google Maps Directions API, to create a travel route between the four cities.
+
+### Resources
+  - :card_file_box: &#160; Python 3.6.1 (64-bit) : &#160;  [Python 3.6.1](https://www.python.org/downloads/windows/)
+  - :card_file_box: &#160; OpenWeather API : &#160; [OpenWeather API](https://openweathermap.org/current)
+  - &#160; Google Maps and Places API : &#160; [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)
+  - &#160; Google Maps Directions API : [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview)
+
 
 
 ## Results
