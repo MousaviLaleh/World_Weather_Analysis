@@ -6,7 +6,7 @@ Based on the new features , users can filter their preferred travel criteria in 
 
 
 ## Purpose
-The purpose of this project consists of three technical analyses.
+The purpose of this project consists of three technical analyses:
   - Retrieve Weather Data.
   - Create a Customer Travel Destinations Map.
   - Create a Travel Itinerary Map.
