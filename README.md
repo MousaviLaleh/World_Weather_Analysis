@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Project Overview
-Work with PlanMyTrip travel technology company, to improve thier travel service, PlanMyTrip app, by adding following features in the app search page, using Python, Pandas, Jupyter notebook, citipy module, matplotlib module, openweathermap and google APIs.
+Work with PlanMyTrip travel technology company, to improve thier travel services andthe PlanMyTrip app, by adding following features in the search page; using Python, Pandas, Jupyter notebook, citipy and matplotlib module, openweathermap and google APIs.
   
   - Get the cities for more than 500 random latitude and longitude.
   - Perform requests with APIs.
@@ -24,7 +24,9 @@ Take following steps in this project:
   :card_file_box: &#160; [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) <br/>
   :card_file_box: &#160; [Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/) <br/>
   :card_file_box: &#160; [citipy module](/fies/615.pdf)
+  :card_file_box: &#160; [matplotlib.pyplot module](https://pandas.pydata.org/docs/user_guide/visualization.html?highlight=matplotlib#plotting-directly-with-matplotlib)
 
+## Analysis
 
 
 ## Results
