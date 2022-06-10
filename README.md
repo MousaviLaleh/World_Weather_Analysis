@@ -29,6 +29,7 @@ Take following steps in this project:
 
 ## Analysis
 ### Retrieve Weather Data
+take the steps:
 - The app uses the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
 - The Python's [citipy](/fies/615.pdf) module is then called to identify the nearest city for each coordinate combination.
 - The weather data is retrieved for all identified cities through a request to the [OpenWeather API](https://openweathermap.org/current).
