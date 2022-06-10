@@ -32,9 +32,21 @@ Take following steps in this project:
 take the steps:
 - The app uses the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
 - The Python's [citipy](/fies/615.pdf) module is then called to identify the nearest city for each coordinate combination.
-- The weather data is retrieved for all identified cities through a request to the [OpenWeather API](https://openweathermap.org/current).
+- The current weather data is retrieved for all identified cities through a request to the [OpenWeather API](https://openweathermap.org/current).
 
 ![01.png](/files/01.png)
+<br/>
+
+### Create a customer travel destinations map
+take the steps:
+- use input statements to retrieve customer weather preferences.
+  ![inBox.png](/Vacation_Search/inBox.png)
+- use those preferences to identify potential travel destinations and nearby hotels.
+- show those destinations on a marker layer map with pop-up markers.
+
+![02.png](/Vacation_Search/WeatherPy_vacation_map.png)
+<br/>
+
 
 
 
