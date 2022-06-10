@@ -36,7 +36,7 @@ take the steps:
 
 ![01.png](/files/01.png)
 <br/>
-
+<br/>
 
 ### Create a customer travel destinations map
 take the steps:
