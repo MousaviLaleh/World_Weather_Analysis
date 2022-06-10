@@ -29,7 +29,7 @@ take the steps:
 - The Python's [citipy](/files/615.pdf) module is then called to identify the nearest city for each coordinate combination.
 - The current weather data is retrieved for all identified cities through a request to the [OpenWeather API](https://openweathermap.org/current).
 
-![01.png](/files/01.png)
+  ![01.png](/files/01.png)
 <br/>
 <br/>
 
