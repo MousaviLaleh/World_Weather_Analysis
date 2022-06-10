@@ -23,7 +23,7 @@ Take following steps in this project:
   :card_file_box: &#160; [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)<br/>
   :card_file_box: &#160; [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) <br/>
   :card_file_box: &#160; [Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/) <br/>
-  :card_file_box: &#160; [citipy module](/fies/615.pdf) <br/>
+  :card_file_box: &#160; [citipy module](/files/615.pdf) <br/>
   :card_file_box: &#160; [matplotlib.pyplot module](https://pandas.pydata.org/docs/user_guide/visualization.html?highlight=matplotlib#plotting-directly-with-matplotlib)
 <br/>
 
@@ -31,7 +31,7 @@ Take following steps in this project:
 ### Retrieve Weather Data
 take the steps:
 - The app uses the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
-- The Python's [citipy](/fies/615.pdf) module is then called to identify the nearest city for each coordinate combination.
+- The Python's [citipy](/files/615.pdf) module is then called to identify the nearest city for each coordinate combination.
 - The current weather data is retrieved for all identified cities through a request to the [OpenWeather API](https://openweathermap.org/current).
 
 ![01.png](/files/01.png)
