@@ -37,7 +37,7 @@ take the steps:
 take the steps:
 - use input statements to retrieve customer weather preferences.<br/>
   ![inBox.png](/Vacation_Search/inBox.png)
-- use those preferences to identify potential travel destinations and nearby hotels.
+- use those preferences to identify potential travel destinations and nearby hotels. <br/>
   ![hotels.png](/Vacation_Search/hotels.png)
 
 
