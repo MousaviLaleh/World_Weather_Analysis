@@ -18,11 +18,21 @@ Take following steps in this project:
   - Create a Travel Itinerary Map, by using the Google Maps Directions API, to create a travel route between the four cities.
 
 ### Resources
-  :card_file_box: &#160; [Python 3.6.1](https://www.python.org/downloads/windows/) <br/>
+<table>
+  <tr>
+    <td>[Python 3.6.1](https://www.python.org/downloads/windows/)</td>
+    <td>[Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/)</td>
+  </tr>
+  <tr>
+    <td><img src="images/ms-01.png"></td>
+    <td><img src="images/ms-02.png"></td>
+  </tr>
+</table>
+  :card_file_box: &#160;  <br/>
   :card_file_box: &#160; [OpenWeather API](https://openweathermap.org/current) <br/>
   :card_file_box: &#160; [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)<br/>
   :card_file_box: &#160; [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) <br/>
-  :card_file_box: &#160; [Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/) <br/>
+  :card_file_box: &#160;  <br/>
   :card_file_box: &#160; [citipy module](/fies/615.pdf) <br/>
   :card_file_box: &#160; [matplotlib.pyplot module](https://pandas.pydata.org/docs/user_guide/visualization.html?highlight=matplotlib#plotting-directly-with-matplotlib)
 
