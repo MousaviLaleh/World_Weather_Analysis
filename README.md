@@ -53,6 +53,7 @@ Using Google Maps Directions API, the app generates a travel route between 4 cit
 ![WeatherPy_travel_map.png](/Vacation_Itinerary/WeatherPy_travel_map.png) 
 <br/>
 <br/>
+
 with pop-up marker showing the description for each selected city. 
 <br/>
 ![WeatherPy_travel_map_markers.png](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
