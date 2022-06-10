@@ -9,11 +9,12 @@ Work with PlanMyTrip travel technology company, to improve thier travel services
   - help customers to predict the best time of year to plan thier vacation.
 
 ## Purpose
-Take following steps in this project:
-
+The purpose of this project consists of three technical analyses.
   - Retrieve Weather Data.
   - Create a Customer Travel Destinations Map.
   - Create a Travel Itinerary Map.
+
+
 ### Resources
   :card_file_box: &#160; [Python 3.6.1](https://www.python.org/downloads/windows/) <br/>
   :card_file_box: &#160; [OpenWeather API](https://openweathermap.org/current) <br/>
