@@ -12,7 +12,7 @@ The purpose of this project consists of three technical analyses:
   - Create a Travel Itinerary Map.
 
 
-### Resources
+### Softwares
   - &#160; [Python 3.6.1](https://www.python.org/downloads/windows/) <br/>
   - &#160; [OpenWeather API](https://openweathermap.org/current) <br/>
   - &#160; [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)<br/>
