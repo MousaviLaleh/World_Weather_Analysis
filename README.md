@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
 ## Project Overview
 Work with PlanMyTrip travel technology company, to improve thier travel PlanMyTrip app services, by adding features in the search page; using *Python, Pandas, Jupyter notebook, citipy and matplotlib module, openweather map and google APIs*. <br/>
@@ -13,16 +13,17 @@ The purpose of this project consists of three technical analyses:
 
 
 ### Resources
-  :card_file_box: &#160; [Python 3.6.1](https://www.python.org/downloads/windows/) <br/>
-  :card_file_box: &#160; [OpenWeather API](https://openweathermap.org/current) <br/>
-  :card_file_box: &#160; [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)<br/>
-  :card_file_box: &#160; [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) <br/>
-  :card_file_box: &#160; [Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/) <br/>
-  :card_file_box: &#160; [citipy module](/files/615.pdf) <br/>
-  :card_file_box: &#160; [matplotlib.pyplot module](https://pandas.pydata.org/docs/user_guide/visualization.html?highlight=matplotlib#plotting-directly-with-matplotlib)
+  - &#160; [Python 3.6.1](https://www.python.org/downloads/windows/) <br/>
+  - &#160; [OpenWeather API](https://openweathermap.org/current) <br/>
+  - &#160; [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)<br/>
+  - &#160; [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) <br/>
+  - &#160; [Jupyter Gmaps module](https://jupyter-gmaps.readthedocs.io/en/latest/) <br/>
+  - &#160; [citipy module](/files/615.pdf) <br/>
+  - &#160; [matplotlib.pyplot module](https://pandas.pydata.org/docs/user_guide/visualization.html?highlight=matplotlib#plotting-directly-with-matplotlib)
 <br/>
 
 ## Analysis
+
 ### Retrieve Weather Data
 take the steps:
 - The app uses the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
