@@ -24,7 +24,7 @@ The purpose of this project consists of three technical analyses:
 
 ## Analysis
 
-### Retrieve Weather Data
+## Retrieve Weather Data
 take the steps:
 - The app uses the NumPy dependency to generate 2,000 sets of coordinates (latitude and longitude).
 - The Python's [citipy](/files/615.pdf) module is then called to identify the nearest city for each coordinate combination.
@@ -34,7 +34,7 @@ take the steps:
 <br/>
 <br/>
 
-### Create a Customer Travel Destinations Map
+## Create a Customer Travel Destinations Map
 take the steps:
 - use input statements to retrieve customer weather preferences.<br/>
   ![inBox.png](/Vacation_Search/inBox.png)
